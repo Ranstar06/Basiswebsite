@@ -64,7 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![Screenshot van de pagina die ik ga namaken.](/images/screenshot.png)
+![Screenshot van de pagina die ik ga namaken.](/images/Screenshot.png)
 
 **Breakdown-schets(en):**
 

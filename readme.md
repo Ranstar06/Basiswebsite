@@ -38,15 +38,27 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het ging wel goed, had alleen wat moeite met flexbox omdat het zo lang geleden was, maar het lukte me wel weer snel. Heb alleen nog echt moeite met alle posts en feed in het midden te krijgen. Het helemaal responsive maken is nog wat moeilijk. Denk wel dat het nog zal lukken.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![Reddit feed voor op mobiel gemaakt, er zijn posts en je kan naar beneden scrollen voor andere posts. Wil nog uitklapbaar menu en search functie in de header. Moet nog beter responsive.](/images/voortgang.png)
+
+![Reddit feed voor op mobiel gemaakt, maar groter.](/images/voortgang2.png)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Mehmet: 9:20-9:35
+Roos: 9:35-9:50
+Mila: 9:50-10:05
+Tensael: 10:05-10:20
+Tom: 10:20-10:25
+
+Probleem: 
+Wanneer ik het scherm groter maak, wil ik de post in het midden van het scherm krijgen maar het blijft links. Geen idee waarom.
+
+Moet nog styling en js fixen, denk er aan om een uitklapbaar menu te maken met subs en andere menu opties, en plaatjes om tekst te vervangen. Geen tijd gehad nog.
+
 
 ### Verslag van meeting
 
